@@ -1,26 +1,13 @@
-/*
-COLORS
-body: #f9f9f9
-loginbox-border/new-border: #d8dee2
-loginbox-background: #fff;
-inputs-border: #d1d5da;
-submit-background-color: #28a745;
-submit-background-image: linear-gradient(-180deg, #34d058 0%, #28a745 90%);
-ul-contact: #586069;
-ul-contact-default: #0000EE;
-background-color: #f9f9f9;
-*/
 
-img {
-opacity: 0.5;
-}
+
+
 
 body{
     margin: 0;
     padding: 0;
     background-color: #000000;
     background-image: url("bg image.jpg");
-    opacity: 0.6;
+
     font-family: sans-serif;
 }
 header img{
